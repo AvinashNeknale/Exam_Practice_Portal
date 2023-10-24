@@ -1,0 +1,46 @@
+.body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.form {
+    padding: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.input[type="submit"] {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.header1 {
+    font-size: 27px;
+    font-weight: 600;
+    text-shadow: 2px black;
+    color: rgb(194, 222, 56);
+}
